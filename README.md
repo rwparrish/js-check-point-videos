@@ -1,7 +1,7 @@
 TO DO:
 clean up README
 add code code challenges
-create demo video coveering how to get set up 
+create demo video coveering how to get set up
 
 Intro
 
