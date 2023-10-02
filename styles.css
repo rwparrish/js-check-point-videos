@@ -5,6 +5,10 @@
     position: relative;
 }
 
+th {
+    text-align: center;  
+}
+
 .marker {
     position: absolute;
     width: 60px;
