@@ -39,17 +39,6 @@ document.addEventListener('DOMContentLoaded', () => {
         wheel.style.transform = `rotate(${actualDeg}deg)`;
     });
 
-    function generateArray() {
-        // I want to assign rand to be a number from 0 to 6
-
-        let rand = 10
-        while (rand >= arrays.length) {
-            rand = Math.floor(Math.random() * 10)
-        }
-        console.log("made it out: ", rand)
-        console.log(arrays)
-        return arrays[rand]
-    }
 })
 
 
