@@ -12,7 +12,7 @@ To aid you in this journey, we provide you with the opportunity to create a "Che
 2. Open the `index.html` file in your browser; you should see a spinner.
 3. Open Zoom, share your screen, and locate the record button.
 4. Before spinning the wheel to determine which challenge you'll record yourself working on and explaining, consider creating one or two 10-second test videos to ensure that your setup effectively records both your screen and your voice. For an example, refer to this [link].
-5. Once you are comfortable with recording using Zoom, begin your recording and spin the wheel!
+5. Once you are comfortable with recording using Zoom, begin your recording first and then spin the wheel!
 6. Navigate to the directory corresponding to the challenge the wheel lands on, and open the `script.js` file to begin.
 7. The recording should not exceed **5 minutes** in duration.
 8. After completing the recording, you can upload your video to YouTube and submit the link.
