@@ -4,3 +4,4 @@ Next, declare a function called checkNumber that takes a number as an argument a
 Then test the function to be sure that it works.
 Lastly, explain the scope of your function parameter and the pizza variable. 
 */
+

@@ -11,3 +11,4 @@ Use your function and put in the argument “Ben”. Prove to yourself that the 
 
 Finally, explain, and if possible provide evidence for your answer: what is the scope of `age`?
 */
+
