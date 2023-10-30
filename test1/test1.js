@@ -1,5 +1,7 @@
 /*
-What will each statement log to the console? First, record yourself making a prediction. Then, test your prediction and explain why each variable is scoped the way it is.
+What will each statement log to the console? 
+First, record yourself making a prediction. 
+Then, test your prediction and explain why each variable is scoped the way it is.
 */
 
 
